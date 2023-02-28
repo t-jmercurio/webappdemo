@@ -1,0 +1,7 @@
+C:\Users\t-jmercurio\Desktop\demooo\demowebapp\bin\Debug\net7.0\publish\demowebapp.exe
+C:\Users\t-jmercurio\Desktop\demooo\demowebapp\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\t-jmercurio\Desktop\demooo\demowebapp\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\t-jmercurio\Desktop\demooo\demowebapp\bin\Debug\net7.0\publish\demowebapp.dll
+C:\Users\t-jmercurio\Desktop\demooo\demowebapp\bin\Debug\net7.0\publish\demowebapp.deps.json
+C:\Users\t-jmercurio\Desktop\demooo\demowebapp\bin\Debug\net7.0\publish\demowebapp.runtimeconfig.json
+C:\Users\t-jmercurio\Desktop\demooo\demowebapp\bin\Debug\net7.0\publish\demowebapp.pdb
